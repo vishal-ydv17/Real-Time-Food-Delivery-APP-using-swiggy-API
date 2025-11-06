@@ -3,7 +3,7 @@
 A modern **React + Vite** web application inspired by **Swiggy** that allows users to **search, filter, and explore restaurants** with live Swiggy API fetched data.  
 When a restaurant is selected, users can view its **detailed menu with interactive accordions** that open and close on click.  
 
-This project also includes:
+This project includes:
 - An **online/offline status indicator**
 - **Lazy loading** using React Router DOM
 - **Dynamic imports and code splitting** for performance
