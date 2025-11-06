@@ -133,7 +133,7 @@ The application integrates with the **Swiggy Live API** to fetch:
 
 ---
 
-<p align="center"><b>Built with lots of love ❤️</b></p>
+<p align="center"><b>Built with lots of loveeeee ❤️ in india </b></p>
 
 
                                                     
