@@ -70,60 +70,70 @@ Follow these steps to run the project locally 👇
    http://localhost:5173/
    ```
 
+---
 
-
-
-
-## 🚀 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone <your-repo-url>
-   cd food-delivery-app
-   ```
-2. **Install dependencies**
-      ```bash
-   npm install
-    ```
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
 ## 🌐 API Integration
-The application integrates with the Swiggy API to fetch:
+The application integrates with the **Swiggy Live API** to fetch:
 
-- Restaurant lists and details
-- Menu items and categories
-- Real-time pricing and availability
-- User location-based data
+- Restaurant lists and details  
+- Menu items and categories  
+- Real-time pricing and availability  
+- User location-based data  
 
-  
-## 🔧 Performance Features ##
-- Code Splitting: Reduces initial bundle size
-- Lazy Loading: Components load only when needed
-- Optimized Images: Efficient image loading strategies
-- Efficient Re-renders: Optimized with React best practices
+---
 
-  ## 🎨 UI/UX Features ##
-- Modern Design: Clean and intuitive user interface
-- Responsive Layout: Works seamlessly on desktop, tablet, and mobile
-- Interactive Elements: Hover effects, loading states, and smooth transitions
-- Accessibility: Proper focus management and ARIA labels
+## 🔧 Performance Features
 
-  ## 🧠 Learning Outcomes ##
+- **Code Splitting:** Reduces initial bundle size  
+- **Lazy Loading:** Components load only when needed  
+- **Optimized Images:** Efficient image loading strategies  
+- **Efficient Re-renders:** Optimized with React best practices  
 
-- Implemented dynamic routing and data fetching
-- Practiced component-based architecture using React
-- Learned lazy loading and code splitting for performance
-- Understood real-world API integration and data handling
-- Styled components using Tailwind CSS
+---
 
-👨‍💻 Author
+## 🎨 UI/UX Features
 
-**Vishal Yadav**
+- **Modern Design:** Clean and intuitive user interface  
+- **Responsive Layout:** Works seamlessly on desktop, tablet, and mobile  
+- **Interactive Elements:** Hover effects, loading states, and smooth transitions  
+- **Accessibility:** Proper focus management and ARIA labels  
+
+---
+
+## 🧠 Learning Outcomes
+
+- Implemented dynamic routing and data fetching  
+- Practiced component-based architecture using React  
+- Learned lazy loading and code splitting for performance optimization  
+- Understood real-world API integration and data handling  
+- Styled components using Tailwind CSS  
+
+---
+
+
+
+## 💼 For Recruiters
+
+> If you’re reviewing this project as part of my application — thank you for your time!  
+> This project showcases my **React.js skills**, understanding of **API integration**, and ability to build **scalable, performant, and visually appealing web applications**.
+
+> I’d love to bring the same enthusiasm and technical skills to your team.  
+> Feel free to connect or reach out for any opportunities or feedback!
+
+> 📧 **Email:** [vishalyadavy0022@gmail.com](mailto:vishalyadavy0022@gmail.com)  
+> 💼 **Portfolio:** [GitHub Profile](https://github.com/vishal-ydv17)  
+> 🔗 **LinkedIn:** [linkedin.com/in/vishal-ydv17](https://linkedin.com/in/vishal-ydv17)
+
+
+## 👨‍💻 Author
+
+**Vishal Yadav**  
 
 🔗 [Twitter](https://x.com/vishal_ydv17)  
-🔗 [LinkedIn](https://linkedin.com/in/vishal-ydv17)
+🔗 [LinkedIn](https://linkedin.com/in/vishal-ydv17)  
 
-**build with lots loveeee ❤️**
-  
+---
+
+<p align="center"><b>Built with lots of love ❤️</b></p>
+
+                                                    
