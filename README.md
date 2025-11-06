@@ -120,20 +120,20 @@ The application integrates with the **Swiggy Live API** to fetch:
 > I’d love to bring the same enthusiasm and technical skills to your team.  
 > Feel free to connect or reach out for any opportunities or feedback!
 
-> 📧 **Email:** [vishalyadavy0022@gmail.com](mailto:vishalyadavy0022@gmail.com)  
-> 💼 **Portfolio:** [GitHub Profile](https://github.com/vishal-ydv17)  
-> 🔗 **LinkedIn:** [linkedin.com/in/vishal-ydv17](https://linkedin.com/in/vishal-ydv17)
-
+---
 
 ## 👨‍💻 Author
 
 **Vishal Yadav**  
 
-🔗 [Twitter](https://x.com/vishal_ydv17)  
-🔗 [LinkedIn](https://linkedin.com/in/vishal-ydv17)  
+> 📧 **Email:** [vishalyadavy0022@gmail.com](mailto:vishalyadavy0022@gmail.com)  
+> 💼 **Portfolio:** [GitHub Profile](https://github.com/vishal-ydv17)  
+> 🔗 **LinkedIn:** [linkedin.com/in/vishal-ydv17](https://linkedin.com/in/vishal-ydv17)  
+> 🐦 **Twitter:** [x.com/vishal_ydv17](https://x.com/vishal_ydv17)
 
 ---
 
 <p align="center"><b>Built with lots of love ❤️</b></p>
+
 
                                                     
